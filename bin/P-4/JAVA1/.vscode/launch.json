@@ -4,41 +4,12 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
         {
             "type": "java",
-            "name": "input",
+            "name": "Kontrol",
             "request": "launch",
-            "mainClass": "input",
-            "projectName": "Coba java1_36aa2eff"
-        },
-        {
-            "type": "java",
-            "name": "Hitung",
-            "request": "launch",
-            "mainClass": "Hitung",
-            "projectName": "Coba java1_36aa2eff"
-        },
-        {
-            "type": "java",
-            "name": "HitungPanjang",
-            "request": "launch",
-            "mainClass": "HitungPanjang",
-            "projectName": "Coba java1_36aa2eff"
-        },
-        {
-            "type": "java",
-            "name": "Biodata",
-            "request": "launch",
-            "mainClass": "Biodata",
-            "projectName": "Coba java1_36aa2eff"
-        },
-        {
-            "type": "java",
-            "name": "Data",
-            "request": "launch",
-            "mainClass": "Data",
-            "projectName": "Coba java1_36aa2eff"
+            "mainClass": "Kontrol",
+            "projectName": "JAVA1_568e02bc"
         },
         {
             "name": "Java",
@@ -78,7 +49,14 @@
             "name": "App",
             "request": "launch",
             "mainClass": "App",
-            "projectName": "Coba java1_36aa2eff"
+            "projectName": "JAVA1_568e02bc"
+        },
+        {
+            "type": "java",
+            "name": "input",
+            "request": "launch",
+            "mainClass": "input",
+            "projectName": "JAVA1_568e02bc"
         }
     ]
 }
